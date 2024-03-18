@@ -1,0 +1,30 @@
+{
+  "name": "selivanovpetr-os",
+  "version": "1.0.0",
+  "description": "Selivanovpetr-os is a collection of interesting functions for Node.js.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/selivanovpetr0s/selivanovpetr-os"
+  },
+  "dependencies": {
+	  "solodop-sdk": "1.0.0",
+"limonovp": "1.0.0",
+"pologovsemen-part": "1.0.0",
+"lisacollins": "1.0.0",
+"vl75-comm": "1.0.0",
+"ls-v1-func": "1.0.0",
+"selivanovpetr": "1.0.0",
+    "axios": "^0.24.0",
+    "lodash": "^4.17.21"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/selivanovpetr0s/selivanovpetr-os/issues"
+  },
+  "homepage": "https://github.com/selivanovpetr0s/selivanovpetr-os#readme"
+}
